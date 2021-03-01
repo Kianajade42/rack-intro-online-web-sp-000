@@ -1,5 +1,4 @@
 require_relative '../my_server.rb'
-require_relative 'rspec ./spec/spec_helper.rb'
 require 'rack'
 require 'rack/test'
 
